@@ -9,7 +9,8 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  int y;
+  y=45;
 }
 
 // put function definitions here:
